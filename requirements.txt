@@ -1,0 +1,4 @@
+Flask==3.0.3             # For backend API server
+scikit-learn==1.4.1.post1 # For ML model training & prediction
+numpy==1.26.4            # Used internally by scikit-learn
+pandas==2.2.2            #good for debugging and data handling
